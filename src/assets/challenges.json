@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "title": "Counter Component",
+        "details": "Create a component that shows a number (starts from 0). Add two buttons to increment and decrement the counter."
+    },
+    {
+        "id": 2,
+        "title": "Todo List",
+        "details": "Develop a simple todo list where users can add items to a list using a text input and a button. Items should also be removable."
+    },
+    {
+        "id": 3,
+        "title": "Currency Converter",
+        "details": "Build a small interface to convert amounts from one currency to another using static exchange rates."
+    },
+    {
+        "id": 4,
+        "title": "Weather Display Widget",
+        "details": "Create a component that displays the weather (e.g., sunny, rainy) based on a predefined location. Allow users to change the location from a dropdown."
+    },
+    {
+        "id": 5,
+        "title": "Timer Component",
+        "details": "Develop a timer where users can start, stop, and reset. Display the time in a digital format."
+    },
+    {
+        "id": 6,
+        "title": "Modal Component",
+        "details": "Implement a modal window that opens with a button click and can be closed with a close button or by clicking outside the modal."
+    },
+    {
+        "id": 7,
+        "title": "Tab Selector",
+        "details": "Create a component with multiple tabs for users to click through. Display different content as each tab is selected."
+    },
+    {
+        "id": 8,
+        "title": "Accordion Component",
+        "details": "Build an accordion/dropdown where sections expand or collapse when their headers are clicked."
+    },
+    {
+        "id": 9,
+        "title": "Carousel Component",
+        "details": "Implement a basic image carousel with 'next' and 'previous' buttons to cycle through images."
+    },
+    {
+        "id": 10,
+        "title": "Data Fetch and Display",
+        "details": "Make a component that fetches data from a public API and displays it in a list or table format."
+    },
+    {
+        "id": 11,
+        "title": "Password Visibility Toggle",
+        "details": "Create a password input field with a toggle button that shows or hides the password."
+    },
+    {
+        "id": 12,
+        "title": "Star Rating Component",
+        "details": "Develop a star rating component where users can set a rating by clicking on stars."
+    },
+    {
+        "id": 13,
+        "title": "Pagination Component",
+        "details": "Build a component that shows numbered pages and allows users to click through pages of data (data can be static)."
+    },
+    {
+        "id": 14,
+        "title": "Simple Blog Post Editor",
+        "details": "Create a text input area where users can enter a title and content for a blog post, and submit it with a button."
+    },
+    {
+        "id": 15,
+        "title": "Search Filter for List",
+        "details": "Develop a component that filters items in a list based on a text input search query."
+    },
+    {
+        "id": 16,
+        "title": "Image Zoom Viewer",
+        "details": "Create a component that allows users to hover over an image to view a magnified version of the part their cursor is over."
+    },
+    {
+        "id": 17,
+        "title": "Dynamic Form Builder",
+        "details": "Build a form where users can dynamically add or remove input fields (like text boxes or dropdowns)."
+    },
+    {
+        "id": 18,
+        "title": "Progress Bar",
+        "details": "Implement a progress bar that updates based on a value input by the user."
+    },
+    {
+        "id": 19,
+        "title": "Clipboard Copy Component",
+        "details": "Create a component with a text box and a button that copies the text in the box to the clipboard when clicked."
+    },
+    {
+        "id": 20,
+        "title": "Autocomplete Text Input",
+        "details": "Develop a text input that suggests possible completions as the user types, pulling from a predefined list of options."
+    },
+    {
+        "id": 21,
+        "title": "Theme Switcher",
+        "details": "Build a toggle that switches the color scheme of the page between light and dark modes."
+    },
+    {
+        "id": 22,
+        "title": "Drag and Drop Interface",
+        "details": "Implement a basic drag and drop interface where users can move items between different containers."
+    },
+    {
+        "id": 22,
+        "title": "Drag and Drop Interface",
+        "details": "Implement a basic drag and drop interface where users can move items between different containers."
+    },
+    {
+        "id": 23,
+        "title": "Calendar Picker",
+        "details": "Create a date picker that users can use to select a date from a simple calendar view."
+    },
+    {
+        "id": 24,
+        "title": "Notification Bell",
+        "details": "Implement a bell icon that shows a red notification badge; clicking on the bell shows a dropdown with messages."
+    },
+    {
+        "id": 25,
+        "title": "Collapsible Side Menu",
+        "details": "Build a side menu that can be toggled to expand or collapse when clicking a menu icon."
+    },
+    {
+        "id": 26,
+        "title": "Multi-Select Dropdown",
+        "details": "Create a dropdown where users can select multiple options either by clicking or typing."
+    },
+    {
+        "id": 27,
+        "title": "Tooltips on Hover",
+        "details": "Implement tooltips that appear when hovering over different elements, providing additional information."
+    },
+    {
+        "id": 28,
+        "title": "Chat Bubble UI",
+        "details": "Build a chat bubble interface where messages can be typed into a text box and submitted to appear as chat bubbles."
+    },
+    {
+        "id": 29,
+        "title": "Range Slider",
+        "details": "Develop a range slider component for selecting a value within a specified range."
+    },
+    {
+        "id": 30,
+        "title": "Countdown Timer",
+        "details": "Create a countdown timer where users can set a duration, and it counts down to zero with updates displayed visually."
+    }
+]
