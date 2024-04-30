@@ -1,20 +1,21 @@
+import { Link } from "react-router-dom";
 import challenges from "../assets/challenges.json";
 
 function Root() {
   return (
     <div>
-      <h1>React Mini Challenges</h1>
-      <ul>
+      <ol>
         {challenges &&
           challenges.map((challenge) => {
             return (
               <li key={challenge.id}>
-                <h3>{challenge.title}</h3>
-                <p>{challenge.details}</p>
+                <Link to={`/challenge/${challenge.id}`}>
+                  <h3>{challenge.title}</h3>
+                </Link>
               </li>
             );
           })}
-      </ul>
+      </ol>
     </div>
   );
 }

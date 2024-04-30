@@ -3,11 +3,28 @@ import ReactDOM from "react-dom/client";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from "./routes/Root";
+import Layout from "./components/Layout";
+import Challenge from "./routes/Challenge";
+import NotFound from "./routes/NotFound";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Root />,
+    element: <Layout />,
+    children: [
+      {
+        path: "/",
+        element: <Root />,
+      },
+      {
+        path: "/challenge/:id",
+        element: <Challenge />,
+      },
+      {
+        path: "*",
+        element: <NotFound />,
+      },
+    ],
   },
 ]);
 
