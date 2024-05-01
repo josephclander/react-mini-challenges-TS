@@ -1,0 +1,19 @@
+.Challenge__container {
+  margin: 10px;
+}
+
+.Challenge__heading {
+  margin-bottom: 10px;
+}
+
+.Challenge__title {
+  margin-bottom: 5px;
+}
+
+.Challenge__details {
+    width: 400px;
+}
+
+.Challenge__divider {
+    margin: 20px 0;
+}
