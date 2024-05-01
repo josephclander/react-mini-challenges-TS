@@ -29,6 +29,7 @@ import Solution27 from "./Solution27";
 import Solution28 from "./Solution28";
 import Solution29 from "./Solution29";
 import Solution30 from "./Solution30";
+import Solution31 from "./Solution31";
 
 type SolutionComponent = React.FunctionComponent;
 
@@ -64,6 +65,7 @@ const solutionComponents: { [key: number]: SolutionComponent } = {
   28: Solution28,
   29: Solution29,
   30: Solution30,
+  31: Solution31,
 };
 
 export default solutionComponents;
