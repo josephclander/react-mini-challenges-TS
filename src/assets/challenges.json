@@ -110,47 +110,42 @@
         "details": "Implement a basic drag and drop interface where users can move items between different containers."
     },
     {
-        "id": 22,
-        "title": "Drag and Drop Interface",
-        "details": "Implement a basic drag and drop interface where users can move items between different containers."
-    },
-    {
-        "id": 23,
+        "id": 24,
         "title": "Calendar Picker",
         "details": "Create a date picker that users can use to select a date from a simple calendar view."
     },
     {
-        "id": 24,
+        "id": 25,
         "title": "Notification Bell",
         "details": "Implement a bell icon that shows a red notification badge; clicking on the bell shows a dropdown with messages."
     },
     {
-        "id": 25,
+        "id": 26,
         "title": "Collapsible Side Menu",
         "details": "Build a side menu that can be toggled to expand or collapse when clicking a menu icon."
     },
     {
-        "id": 26,
+        "id": 27,
         "title": "Multi-Select Dropdown",
         "details": "Create a dropdown where users can select multiple options either by clicking or typing."
     },
     {
-        "id": 27,
+        "id": 28,
         "title": "Tooltips on Hover",
         "details": "Implement tooltips that appear when hovering over different elements, providing additional information."
     },
     {
-        "id": 28,
+        "id": 29,
         "title": "Chat Bubble UI",
         "details": "Build a chat bubble interface where messages can be typed into a text box and submitted to appear as chat bubbles."
     },
     {
-        "id": 29,
+        "id": 30,
         "title": "Range Slider",
         "details": "Develop a range slider component for selecting a value within a specified range."
     },
     {
-        "id": 30,
+        "id": 31,
         "title": "Countdown Timer",
         "details": "Create a countdown timer where users can set a duration, and it counts down to zero with updates displayed visually."
     }

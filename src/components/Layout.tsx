@@ -1,11 +1,11 @@
-import { Link, Outlet } from "react-router-dom";
+import { Outlet } from "react-router-dom";
+import styles from "./Layout.module.css";
+import Nav from "./Nav";
 
 function Layout() {
   return (
-    <div>
-      <Link to={""}>
-        <h1>React Mini Challenges</h1>
-      </Link>
+    <div className={styles.Layout}>
+      <Nav />
       <main>
         <Outlet />
       </main>

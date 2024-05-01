@@ -1,0 +1,27 @@
+.Root__container {
+  margin: 10px;
+  width: 100%;
+}
+
+.Root__blurb {
+  margin: 10px 5px 30px;
+  width: 400px;
+}
+
+.Root__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.Root__listItem {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+  transition: background-color 300ms;
+}
+
+.Root__listItem:active,
+.Root__listItem:hover {
+  background-color: var(--colour-primary);
+}
