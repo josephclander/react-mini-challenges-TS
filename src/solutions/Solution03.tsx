@@ -1,5 +1,5 @@
-const Solution01 = () => {
+const Solution03 = () => {
   return <div>ADD YOUR SOLUTION HERE</div>;
 };
 
-export default Solution01;
+export default Solution03;
