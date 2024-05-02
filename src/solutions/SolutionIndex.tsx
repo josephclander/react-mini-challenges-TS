@@ -5,7 +5,7 @@ import Solution03 from "./Solution03";
 import Solution04 from "./Solution04";
 import Solution05 from "./Solution05";
 import Solution06 from "./Solution06";
-import Solution07 from "./Solution17";
+import Solution07 from "./Solution07";
 import Solution08 from "./Solution08";
 import Solution09 from "./Solution09";
 import Solution10 from "./Solution10";
